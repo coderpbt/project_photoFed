@@ -4,7 +4,7 @@ import Image from "next/image"
 const Logo = () => {
   return (
     <Link href="/">
-      PhotoFeed
+     <h2><b>PhotoGallery</b></h2>
     </Link>
   )
 }
